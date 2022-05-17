@@ -1,0 +1,35 @@
+textarea {
+    font-family: 'Menlo', 'Courier New', 'Courier';
+    width: 100%;
+    margin: 4px 0px 4px 0px;
+    resize: none;
+}
+body {
+    padding-top: 50px;
+}
+.smallFont {
+    font-size: 0.8em;
+}
+.note {
+    font-size: 1.5rem;
+}
+.form-control {
+    width: 40%;
+}
+.authdiagram {
+    max-width: 1000px;
+    max-width: 100%;
+}
+p {
+    font-size: smaller;
+}
+figcaption {
+    font-size: small;
+    font-style: italic;
+    text-align: left;
+}
+small {
+    font-size: 70%;
+    position: relative;
+    top: -10px
+}
